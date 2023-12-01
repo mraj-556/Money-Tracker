@@ -1,0 +1,25 @@
+
+
+
+/* Login Page csss */
+
+.login-form{
+    width: 30%;
+    height: fit-content;
+    padding: 2em;
+}
+
+.login-inp{
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid cyan;
+    border-radius: 0;
+    background-color: transparent;
+    color: aqua;
+}
+.input-group input:focus{
+    background-color: transparent;
+    outline: none;
+    box-shadow: 0 0 0;
+    color: aqua;
+}
